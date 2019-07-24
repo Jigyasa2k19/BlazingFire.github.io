@@ -13,5 +13,4 @@ THIS IS HOME PAGE
 {% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
 
 ``` html
-<!--{% raw %}{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %} -->
 ```
