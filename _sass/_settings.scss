@@ -35,5 +35,11 @@ $monospacetype: (
   cap-height: 0.68
 ) !default;
 
+a:hover, a:focus {
+  text-decoration: none;
+  outline: none;
+  color: #dd0a37;
+}
+
 // Font import, if you're using a non-standard web font
 @import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
