@@ -5,13 +5,13 @@
 <small>Dont miss a chance to perform infont of these estemeed dignitaries. More information to be updated soon.</small>
 
 
-{% include figure.html image="https://english.cdn.zeenews.com/sites/default/files/2018/01/06/652569-kapil-dev-970.jpeg" caption="Shri Kapil Dev" position="left" width="100" height="300" %}
+{% include figure.html image="https://english.cdn.zeenews.com/sites/default/files/2018/01/06/652569-kapil-dev-970.jpeg" caption="Shri Kapil Dev" position="left" width="300" height="300" %}
 
 
 {% include figure.html image="https://stillunfold.com/public/upload/biography/HZC1FcnEyG.jpg" caption="Shrimati Shushma Swaraj" position="left" width="300" height="300" %}
 
 
-{% include figure.html image="https://english.cdn.zeenews.com/sites/default/files/2018/01/06/652569-kapil-dev-970.jpeg" caption="To be announed soon" position="left" width="300" height="300" %}
+{% include figure.html image="https://upload.wikimedia.org/wikipedia/commons/7/74/E_Sreedharan.jpg" caption="Metro Man" position="left" width="300" height="300" %}
 
 
 {% include figure.html image="https://english.cdn.zeenews.com/sites/default/files/2018/01/06/652569-kapil-dev-970.jpeg" caption="Tobe announced soon" position="left" width="300" height="300" %}
