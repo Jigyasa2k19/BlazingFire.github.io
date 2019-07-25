@@ -12,5 +12,5 @@
 {% include figure.html image="images/shushma.jpg" caption="Metro Man" position="left" width="300" height="300" %}
 
 
-{% include figure.html image="https://english.cdn.zeenews.com/sites/default/files/2018/01/06/652569-kapil-dev-970.jpeg" caption="Tobe announced soon" position="left" width="300" height="300" %}
+{% include figure.html image="images/sreedaran.jpg" caption="Tobe announced soon" position="left" width="300" height="300" %}
 
