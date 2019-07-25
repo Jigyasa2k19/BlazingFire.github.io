@@ -1,7 +1,6 @@
-# Guest Appearances 
+##### Guest Appearances 
 
-
-<small>Dont miss a chance to perform infont of these estemeed dignitaries. More information to be updated soon.</small>
+Dont miss a chance to perform infont of these estemeed dignitaries. More information to be updated soon.
 
 {% include figure.html image="/images/kapil.jpg" caption="Shri Kapil Dev" position="left" width="300" height="300" %}
 
