@@ -7,13 +7,16 @@ excerpt: ""
 aside: true
 ---
 
-[<span style="font-family:'Merriweather'; font-size:1.75em;">Treasure HUNT</span>](/event2 "A link")
+[<span style="font-family:'Merriweather'; font-size:1.75em;">Tshirt Designing</span>](/event2 "A link")
+
+let your creativity flow 
 
 
-this is descript tion of event 1
+[<span style="font-family:'Merriweather'; font-size:1.75em;">Video Making</span>](/event2 "A link")
+
+Mesmerize the digital world with your impactful thoughts and content
 
 
-[<span style="font-family:'Merriweather'; font-size:1.75em;">Treasure HUNT</span>](/event2 "A link")
+[<span style="font-family:'Merriweather'; font-size:1.75em;">Sketching</span>](/event2 "A link")
 
-
-this is descript of event 2
+Bring your inner genius outside and rock the world.
