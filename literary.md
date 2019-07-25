@@ -8,12 +8,12 @@ aside: true
 ---
 
 
-[<span style="font-family:'Merriweather'; font-size:1.75em;">Shloka</span>](/event2 "A link")
+[<span style="font-family:'Merriweather'; font-size:1.75em;">Shloka</span>](/events/shloka "A link")
 
 Mesmerize the digital world with your impactful thoughts and content.A NGO wants to make their Social Awareness video and they have contacted to your pool to make it for them, now you are supposed to make a Social Awareness campaign video on their theme. It can be a Documentary, photo campaign video (Reference: https://www.facebook.com/itmatters.news/videos) etc.
 
 
-[<span style="font-family:'Merriweather'; font-size:1.75em;">Poetry</span>](/event2 "A link")
+[<span style="font-family:'Merriweather'; font-size:1.75em;">Poetry</span>](/events/poetry "A link")
 
 let your creativity flow 
 
