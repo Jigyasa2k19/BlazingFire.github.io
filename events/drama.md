@@ -29,3 +29,7 @@ Final performance - 24th Aug
 * Shortlisted teams will compete finally on 24th Aug
 * Costumes will be provided for final performance only
 
+#### Organiser
+Premraj (7417516398)8769223763
+
+
