@@ -1,6 +1,6 @@
 ---
 title: Rahasyam
-feature_text: |Treasure Hunt1
+feature_text: |
   
 feature_image: "/IMG-20190724-WA0003.jpg"
 excerpt: "Treasure Hunt"
