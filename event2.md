@@ -8,11 +8,12 @@ aside: false
 ---
 
 
-#### Problem Statement
+#### Contest rules
 
 
 
-<small>Imagine something and transcribe your abstract thought into a bespoke structure sculpted out of virtual clay spheres.A theme will be given on the spot, and using the "True-Sculpt" app (link given below), you have to create something relevant to the theme.</small>
+<small>1.The contest begins on August 1</small>
+<Small>2.Entries must be submitted by the deadline at midnight of August 17</small>
 
 [<span style="font-family:Papyrus; font-size:4em;color:red;">Register Here</span>](https://david.darn.es "A link")
 
