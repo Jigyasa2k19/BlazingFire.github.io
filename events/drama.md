@@ -1,6 +1,6 @@
 ---
 title: Natkhatam
-feature_text: |Drama Competition22
+feature_text: |
   
 feature_image: "/IMG-20190724-WA0003.jpg"
 excerpt: "Drama Competition"
@@ -8,7 +8,7 @@ aside: true
 ---
 
 #### How to participate
-When the form for registration is launched on our portal/fb page you have to register with us.
+[<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/KdcxcBhTjBirV6pH8 "Event Registration link") 
 
 #### Description
 The art of dramatics has been an integral part of our culture going far back. We have a rich tradition of transmitting our great histories such as Ramayana and Mahabharata and other epic stories via the medium of drama. This year in Jigyasa, we are providing a platform for you to display your talents and also continue this tradition by enacting a drama based on our epics.
