@@ -1,44 +1,31 @@
 ---
-title: Drama
-feature_text: |
+title: Natkhatam
+feature_text: |Drama Competition22
   
 feature_image: "/IMG-20190724-WA0003.jpg"
-excerpt: ""
+excerpt: "Drama Competition"
 aside: true
 ---
 
+#### How to participate
+When the form for registration is launched on our portal/fb page you have to register with us.
 
-#### Problem Statement
+#### Description
+The art of dramatics has been an integral part of our culture going far back. We have a rich tradition of transmitting our great histories such as Ramayana and Mahabharata and other epic stories via the medium of drama. This year in Jigyasa, we are providing a platform for you to display your talents and also continue this tradition by enacting a drama based on our epics.
 
+#### Tentative Timeline - 
+Registration deadline  - 30th July 
+Audition and team formation - 3rd Aug
+Script Finalization - 8th Aug
+Elimination round - 18th Aug
+Final performance - 24th Aug
 
+#### Rules
+* One may register as an individual or team 
+* After auditions teams would be finalized
+* Teams would write their script and submit till 8th Aug
+* We will give you reference and help in writing a suitable script
+* In elimination rounds, teams with satisfactory performance would be shortlisted
+* Shortlisted teams will compete finally on 24th Aug
+* Costumes will be provided for final performance only
 
-<small>Imagine something and transcribe your abstract thought into a bespoke structure sculpted out of virtual clay spheres.A theme will be given on the spot, and using the "True-Sculpt" app (link given below), you have to create something relevant to the theme.</small>
-
-<!-- [<span style="font-family:Papyrus; font-size:4em;color:red;">Register Here</span>](https://david.darn.es "A link") -->
-
-[<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/DxrDcNveyBDs6Mrh7 "A link") 
-
-
-#### Theme
-Will be announced at the time of the event.
-
-
-#### Rules & Guidelines
--For Y-16 Only.
--Time limit (120 minutes).
--Individual Event.
--The assets you create should be original. If found that they are downloaded/copied, it is a sufficient grounds for disqualification of the entry.
--Link to the software (Google Play): https://play.google.com/store/apps/details?id=truesculpt.main
--Tutorial Link 1: https://www.youtube.com/watch?v=vEcSO9NWwbU
-
-#### Judging Criteria
-
-The judging shall be done on the following basis
--Creativity
--Execution
--Aesthetics
-
-#### Deadline
--On the spot event. Date: 1/10/2016 
-
-```
