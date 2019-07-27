@@ -12,7 +12,7 @@ When the form for registration is launched on our portal/fb page you have to reg
 Rules
 Team Size: 3
 Rounds: Treasure hunt round and final quiz round on stage 
-#### Treasure Hunt 
+### 1) Treasure Hunt 
 If you are a problem solver, if you love adventure, if you are a good team player, if you want to search the secret things inside IITK campus and want to win exciting prizes with making new friends then register your team for the amazing treasure hunt event going to be held on 18th August 2019 at Open Air Theatre (OAT).
 
 <strong>Note</strong>: No Registration fee for participation.
@@ -29,5 +29,12 @@ If any team stuck on any task for a long time they may use their three life line
 Total points will be accumulated at the end of the game at 6:00PM.
 Participants are supposed to read “Introduction to Bhagavad- Gita” in advance to understand the clues in a better way.
 Each registered participant will be provided the link to the above book.
+
+
+### 2. Shastra: On stage Quizzing round
+#### Rules
+Grand Finale: An on-stage competition in team of 3.
+Quizmaster: To be announced soon
+
 
 ```
