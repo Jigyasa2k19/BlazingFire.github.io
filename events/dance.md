@@ -7,6 +7,8 @@ excerpt: "Solo Dance Competition"
 aside: true
 ---
 #### Solo Dance
+
+
 #### How to participate
 [<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/KdcxcBhTjBirV6pH8 "Event Registration link") 
 
@@ -16,6 +18,7 @@ aside: true
 * Judging Criteria
 Choreography, Energy of the participant, Expressions during the performance, Clarity, costumes, completion of Steps and Overall impact. 
 * Styles: Classical / semi-classical dance 
+
 #### General Rules
 * Participants will have to perform classical dances of India. We would love to see Kathak, Bharatanatyam, Kathakali, Mohiniyattam, Manipuri, Sattriya, Kuchipudi, Odissi and Gaudiya Nritya etc. However, different forms will not be judged separately.
 * The songs should be strictly classical. Film songs are not allowed. [except for the finals, where you can perform on semi-classical instrumental piece].
