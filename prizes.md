@@ -1,5 +1,5 @@
  
-##### Tons of Exciting prizes to be won, and here goes the list 
+##### Tons of Exciting prizes worth 2 Lakh waiting for you
 
 
 {% include figure.html image="/images/jbl.jpg" caption=" " position="left" width="300" height="300" %}
