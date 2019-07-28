@@ -17,4 +17,4 @@
 {% include figure.html image="/images/kindle.jpg" caption=" " position="left" width="300" height="300" %}
 
 
-{% include figure.html image="/images/fitbit.jpg" caption=" " position="left" width="300" height="300" %}
+{% include figure.html image="/images/fitbit.jpeg" caption=" " position="left" width="300" height="300" %}
