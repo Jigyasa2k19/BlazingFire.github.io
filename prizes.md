@@ -1,5 +1,5 @@
  
-##### Exciting prizes & goodies worth 2 Lakh waiting to be won !!!
+###### Exciting prizes & goodies worth 2 Lakh waiting to be won !!!
 <br/><br/>
 
 {% include figure.html image="/images/kindle.jpg" caption=" " position="left" width="200" height="200" %}
