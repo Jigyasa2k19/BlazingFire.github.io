@@ -14,11 +14,11 @@ aside: true
 The art of dramatics has been an integral part of our culture going far back. We have a rich tradition of transmitting our great histories such as Ramayana and Mahabharata and other epic stories via the medium of drama. This year in Jigyasa, we are providing a platform for you to display your talents and also continue this tradition by enacting a drama based on our epics.
 
 #### Tentative Timeline - 
-Registration deadline  - 30th July 
-Audition and team formation - 3rd Aug
-Script Finalization - 8th Aug
-Elimination round - 18th Aug
-Final performance - 24th Aug
+* Registration deadline  - 30th July 
+* Audition and team formation - 3rd Aug
+* Script Finalization - 8th Aug
+* Elimination round - 18th Aug
+* Final performance - 24th Aug
 
 #### Rules
 * One may register as an individual or team 
@@ -30,6 +30,6 @@ Final performance - 24th Aug
 * Costumes will be provided for final performance only
 
 #### Organiser
-Premraj (8769223763)
+- Premraj (8769223763)
 
 
