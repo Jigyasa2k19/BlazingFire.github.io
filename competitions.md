@@ -25,4 +25,4 @@ The art of dramatics has been an integral part of our culture going far back. We
 
 [<span style="font-family:'Merriweather'; font-size:1.75em;">Natyanjali</span>](/events/dance "A link")
 
-[<span style="font-family:'Merriweather'; font-size:1.75em;">RaagMudra</span>](/events/dance "A link")
+[<span style="font-family:'Merriweather'; font-size:1.75em;">RaagMudra</span>](/events/group_dance "A link")
