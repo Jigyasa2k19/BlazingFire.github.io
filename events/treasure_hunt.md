@@ -8,8 +8,7 @@ aside: true
 ---
 
 #### How to participate?
-When the form for registration is launched on our portal/fb page you have to register with us.
-Rules
+[<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/KdcxcBhTjBirV6pH8 "Event Registration link")
 Team Size: 3
 Rounds: Treasure hunt round and final quiz round on stage 
 ### 1) Treasure Hunt 
@@ -35,6 +34,9 @@ Each registered participant will be provided the link to the above book.
 #### Rules
 Grand Finale: An on-stage competition in team of 3.
 Quizmaster: To be announced soon
+
+#### Organiser
+- Sandeep (7417516398)
 
 
 ```
