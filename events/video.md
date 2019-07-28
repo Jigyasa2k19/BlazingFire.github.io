@@ -4,12 +4,12 @@ feature_text: |
   
 feature_image: "/IMG-20190724-WA0003.jpg"
 excerpt: ""
-aside: true
+aside: false
 ---
 
 #### T-shirt designing competition
 
-#### How to participate
+#### How to participate ?
 [<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/KdcxcBhTjBirV6pH8 "Event Registration link") 
 #### Contest Rules
 * The contest begins on August 1st .
