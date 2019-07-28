@@ -8,37 +8,30 @@ aside: true
 ---
 
 
-#### Problem Statement
+#### Srish-T
+T-shirt designing competition
+#### How to participate
+[<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/KdcxcBhTjBirV6pH8 "Event Registration link") 
+#### Contest Rules
+* The contest begins on August 1st .
+* Entries must be submitted by the  deadline at midnight of August 17th.
+* Top entries will be posted on Jigyasa’s fb page on 19th and will also be judged on max no. of likes n 48 hour basis.
+* Your design can be on the front of the t-shirt only and on back side Jigyasa’19-dive into yourself must be made by you by your creativity
+* Your design must be wholly original. 
+#### Design guidelines & Specifications
+* The design approach may be traditional or abstract, but it must be clearly resonate with the theme given.
+* You can use photoshop, illustrator or any other vector software
+* Design submission should be saved to 300 dpi to produce a quality output. Acceptable
+files are high resolution JPGs, TIFFs, AI and EPS files.
+* While it is not required, should you wish to center your design around our logo, you may
+reach out to our email id: jigyasa2019iitk@gmail.com for a high resolution
+file of the Jigyasa logo .
+* The design should be on the front of the shirt and should be contained within a 14 inch by
+17 inch area.
+* If an entry includes any of the prohibited elements, the entry will be disqualified, along with the contestant.
 
+#### Organiser
+- Manish (9993692599)
 
-
-<small>Imagine something and transcribe your abstract thought into a bespoke structure sculpted out of virtual clay spheres.A theme will be given on the spot, and using the "True-Sculpt" app (link given below), you have to create something relevant to the theme.</small>
-
-<!-- [<span style="font-family:Papyrus; font-size:4em;color:red;">Register Here</span>](https://david.darn.es "A link") -->
-
-[<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/DxrDcNveyBDs6Mrh7 "A link") 
-
-
-#### Theme
-Will be announced at the time of the event.
-
-
-#### Rules & Guidelines
--For Y-16 Only.
--Time limit (120 minutes).
--Individual Event.
--The assets you create should be original. If found that they are downloaded/copied, it is a sufficient grounds for disqualification of the entry.
--Link to the software (Google Play): https://play.google.com/store/apps/details?id=truesculpt.main
--Tutorial Link 1: https://www.youtube.com/watch?v=vEcSO9NWwbU
-
-#### Judging Criteria
-
-The judging shall be done on the following basis
--Creativity
--Execution
--Aesthetics
-
-#### Deadline
--On the spot event. Date: 1/10/2016 
 
 ```
