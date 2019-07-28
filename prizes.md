@@ -12,9 +12,6 @@
 {% include figure.html image="/images/jbl_h.jpeg" caption=" " position="left" width="200" height="200" %}
 
 
-{% include figure.html image="/images/shoes.jpeg" caption=" " position="left" width="200" height="200" %}
-
-
 {% include figure.html image="/images/bag.jpeg" caption=" " position="left" width="200" height="200" %}
 
 
@@ -28,3 +25,6 @@
 
 
 {% include figure.html image="/images/pendrive.jpg" caption=" " position="left" width="200" height="200" %}
+
+
+{% include figure.html image="/images/shoes.jpeg" caption=" " position="left" width="200" height="200" %}
