@@ -4,7 +4,7 @@ feature_text: |
   
 feature_image: "/IMG-20190724-WA0003.jpg"
 excerpt: ""
-aside: true
+aside: false
 ---
 
 
@@ -17,7 +17,7 @@ aside: true
 
 **Drama-** The art of dramatics has been an integral part of our culture going far back. We have a rich tradition of transmitting our great histories such as Ramayana and Mahabharata and other epic stories via the medium of drama. This year in Jigyasa, we are providing a platform for you to display your talents and also continue this tradition by enacting a drama based on our epics.
 
-[<span style="font-family:'Merriweather'; font-size:1.75em;">Aalapna</span>](/events/singing "A link")
+[<span style="font-family:'Merriweather'; font-size:1.75em;">Aalapana</span>](/events/singing "A link")
 
 **Solo Vocals-** 
 
