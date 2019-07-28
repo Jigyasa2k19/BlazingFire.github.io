@@ -112,14 +112,6 @@ navigation_header:
   url: /
 - title: Competitions
   url: /competitions/
-- title: Quizzes
-  url: /quizzes/
-- title: Cultural
-  url: /cultural/
-- title: Literary
-  url: /literary/
-- title: Designing
-  url: /designing/
 - title: Guests
   url: /guests/
 - title: Prizes
