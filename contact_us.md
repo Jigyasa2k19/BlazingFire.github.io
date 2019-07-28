@@ -7,10 +7,7 @@
 
 ### Event Coordinators
 * Abhishek Bansal (855874555)
-* Ujjwal (855874555)
+* Anil (9983671036)
 
-### Registration Team
 
-* Abhishek Bansal (855874555)
-* Ujjwal (855874555)
 
