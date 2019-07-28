@@ -1,10 +1,10 @@
 ---
-title: RaagMudra
+title: Mudra
 feature_text: |
   
 feature_image: "/IMG-20190724-WA0003.jpg"
 excerpt: ""
-aside: true
+aside: false
 ---
 
 
@@ -12,7 +12,7 @@ aside: true
 
 
 
-#### How to participate
+#### How to participate ?
 [<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/KdcxcBhTjBirV6pH8 "Event Registration link") 
 
 #### Rules
