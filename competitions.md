@@ -33,6 +33,6 @@ aside: true
 
 **Solo Dance-** 
 
-[<span style="font-family:'Merriweather'; font-size:1.75em;">RaagMudra</span>](/events/group_dance "A link")
+[<span style="font-family:'Merriweather'; font-size:1.75em;">Mudra</span>](/events/group_dance "A link")
 
 **Group-Dance-** 
