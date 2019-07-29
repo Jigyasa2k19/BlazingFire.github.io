@@ -7,7 +7,7 @@ excerpt: "Solo Dance Competition"
 aside: false
 ---
 #### Solo Dance
-
+Indian classical dance is meant to please the Divine and to be a powerful means to bring the dancer as well as the audience back to its cultural consciousness. So drown yourself in divine, grace, beauty, tenderness to delight the eyes and souls of the viewers. Participate in the most graceful competition that Jigyasa has got for you: The Classical Dancing Competition “NATYANJALI”. 
 
 #### How to participate ?
 [<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/KdcxcBhTjBirV6pH8 "Event Registration link") 
