@@ -17,15 +17,17 @@ The one who sings knows no boundaries but only the joy of expression - the joy t
 * Rounds: Eliminations, Finals
 * Judging Criteria: Accuracy of Notes, Rhythm, Selection of Composition, Creativity, Emotion and overall impact
 
+
 #### Eliminations:
-* Time Limit: 4-5 minutes
-* The participant shall be asked to perform ONE classical  composition
+* Time Limit: 1-3 minutes
+* The selected participant shall be asked to prepare ONE classical/semi-classical composition for finals
 * Finals:
-Time Limit:7-8 Minutes The participant has to perform composition based on theme provided. 
+    Time Limit:3-4 Minutes The participant has to perform composition based on theme provided. 
 
 #### General Rules:
-* Strictly no film/folk music allowed.
-* The performer may use a harmonium or swarmandal if he/she wants.
+* Classical/Semi-Classical songs are preferred.
+* The performer may use a harmonium or tanpura if he/she wants.
+* Dates: Elimination round(8th Aug), Final round(14th Aug)
 Decisions of the judges is final and binding.
 
 #### Organiser
