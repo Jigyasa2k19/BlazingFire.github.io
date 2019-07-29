@@ -1,36 +1,57 @@
 ---
-title: Srish-T
+title: Chalchitram
 feature_text: |
   
 feature_image: "/IMG-20190724-WA0003.jpg"
 excerpt: ""
 aside: false
 ---
+#### Short Movie Making
+“You shouldn’t dream your film, you should make it!” - Steven Spielberg . Movies allow us to enter other minds, not simply in the sense of identifying with the characters, but by seeing the world as another person sees it. Do you often find yourself immersed in this world? Have you ever wondered what would it feel like if this was not only your passion but also your profession? Jigyasa aims to provide you with the first stepping stone.
 
-#### T-shirt designing competition
-
-#### How to participate ?
+#### How to participate
 [<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/KdcxcBhTjBirV6pH8 "Event Registration link") 
-#### Contest Rules
-* The contest begins on August 1st .
-* Entries must be submitted by the  deadline at midnight of August 17th.
-* Top entries will be posted on Jigyasa’s fb page on 19th and will also be judged on max no. of likes n 48 hour basis.
-* Your design can be on the front of the t-shirt only and on back side Jigyasa’19-dive into yourself must be made by you by your creativity
-* Your design must be wholly original. 
-#### Design guidelines & Specifications
-* The design approach may be traditional or abstract, but it must be clearly resonate with the theme given.
-* You can use photoshop, illustrator or any other vector software
-* Design submission should be saved to 300 dpi to produce a quality output. Acceptable
-files are high resolution JPGs, TIFFs, AI and EPS files.
-* While it is not required, should you wish to center your design around our logo, you may
-reach out to our email id: jigyasa2019iitk@gmail.com for a high resolution
-file of the Jigyasa logo .
-* The design should be on the front of the shirt and should be contained within a 14 inch by
-17 inch area.
-* If an entry includes any of the prohibited elements, the entry will be disqualified, along with the contestant.
+
+#### Rules
+* Team Size: At most 4 in the core team (No particular limit for actors in the film)
+* Rounds: Entries to be submitted online.
+* Judging Criteria: Editing, Cinematography, Script (originality), Acting, Sound effects, overall impact, Relevance to theme.
+
+#### Eliminations:
+* Time Limit: 3-10 minutes (Including credits)
+* Theme: 
+* Deadline for submission: 20th August
+
+#### General Rules:
+* The movie should be in Hindi or English or both. If you choose to make a film in Hindi, it must contain English subtitles. * No other languages will be allowed.
+* You may use any video camera you deem suitable for shooting the movie. However, we strongly discourage low-resolution cameras, including webcams and mobile-phone cameras.
+* The content of the movie should be appropriate for public screening and thus have no vulgarity/Obscenity.
+Sound tracks (no max time limit) and stock footage (time limit : max of 1 min 30 seconds) can be borrowed, but with due credits.
+* The decision of the judges will be final and binding.
+* Submission:
+Uploading the video on www.youtube.com or any other such website before emailing the link to jigyasa2019iitk@gmail.com is prohibited……………..
+
+#### Rules
+* Team Size: Solo
+* Rounds: Online Eliminations & Finals
+* Judging Criteria: Creativity, Theme incorporation, Relevance to theme, Complexity, Neatness, Overall Impact
+
+#### Online Eliminations: -
+* Medium: Pen/Pencil
+* Theme: Krishna- The Super Hero 
+
+#### Finals: -
+* Medium: Open
+* Materials Provided: Pencils(2B,4B,6B,8B), erasers, sharpener, tissues, A3 sheets, newspaper
+* Time Limit:3 hours
+* Theme: On spot
+#### General Rules:
+* No references are allowed to be carried by the participants. Any explicit content shall lead to straight disqualification.
+* Only one sheet would be given. So, the participants should take special care so as to not spoil the sheet. An A3 sized paper would be given which could be used for rough work.
+* The decision of the judges shall be final and binding.
 
 #### Organiser
-- Manish (9993692599)
+- Vishal (9792964573)
 
 
 ```
