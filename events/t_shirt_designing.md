@@ -7,6 +7,7 @@ excerpt: ""
 aside: false
 ---
 #### T-Shirt Designing
+Whenever you see someone with a cool T-shirt you certainly wish “kaash mere pas bhi yeh hoti”. Jigyasa’19 is giving you the opportunity to feel that delight where your friends will wear the same T-shirt designed by you. So start rolling yourself into this journey to get some publicity and for the first time to design something out of the box 
 
 #### How to participate ?
 [<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/KdcxcBhTjBirV6pH8 "Event Registration link") 
