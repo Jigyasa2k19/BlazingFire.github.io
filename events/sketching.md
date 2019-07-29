@@ -7,7 +7,7 @@ excerpt: ""
 aside: false
 ---
 #### Drawing
-
+'Sketchbooks are not about being a good artist, they are about being a good thinker' Jigyasa brings you the chance to show the world the beauty of your thoughts and the artistry of your hands. Bring out the philosopher in you and make the world a better place. Sketch your version of the theme provided and win the hearts of the people!!!!!
 
 #### How to participate ?
 [<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/KdcxcBhTjBirV6pH8 "Event Registration link") 
