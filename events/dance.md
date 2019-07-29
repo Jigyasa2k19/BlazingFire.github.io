@@ -31,7 +31,7 @@ Choreography, Energy of the participant, Expressions during the performance, Cla
 * For this round, costumes will not play a major role in judging.
 
 #### Finals: 
-* Time limit : 4 - 7 minutes (including setup, clearance and narration time of 45 sec)
+* Time limit : 3 - 6 minutes (including setup, clearance and narration time of 45 sec)
 * Date: 18th August 
 * The participants who are shortlisted for the finals have to choose any one of the given themes, prepare their own choreography for the same and dance for the chosen theme to only semi-classical and classical instrumental music or song.
 
