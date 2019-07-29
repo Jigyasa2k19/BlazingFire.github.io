@@ -1,44 +1,56 @@
 ---
-title: IITK Quiz
+title: RekhArt
 feature_text: |
   
 feature_image: "/IMG-20190724-WA0003.jpg"
 excerpt: ""
-aside: true
+aside: false
 ---
+#### Drawing
 
 
-#### Problem Statement
+#### How to participate ?
+[<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/KdcxcBhTjBirV6pH8 "Event Registration link") 
 
 
+#### Rules
 
-<small>Imagine something and transcribe your abstract thought into a bespoke structure sculpted out of virtual clay spheres.A theme will be given on the spot, and using the "True-Sculpt" app (link given below), you have to create something relevant to the theme.</small>
+* Team Size: Solo
+* Rounds: Online Eliminations & Finals and 2 special prizes for most popular post
+* Judging Criteria: Creativity, Theme incorporation, Relevance to theme, Complexity, Neatness, Overall Impact
 
-<!-- [<span style="font-family:Papyrus; font-size:4em;color:red;">Register Here</span>](https://david.darn.es "A link") -->
+#### Online Eliminations: -
 
-[<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/DxrDcNveyBDs6Mrh7 "A link") 
+* Medium: Open
+* Theme: Krishna- The Super Hero 
 
+#### General Guidelines:
 
-#### Theme
-Will be announced at the time of the event.
+* You need to upload/send the entry at… (email or fb page address goes here)
+* The image must be of a good quality image in .bmp, .png, or .jpeg format only.
+* The size of image should not exceed….( We would suggest ~1mb)
+* Last date of entry submission ()
+* Selected entries will be called for the finals.
+* The entries will be posted on our fb page on…(date)
+* There would be attractive prizes for the post with maximum popularity.
+* Likes till (date, time) will only be considered.
+ 
 
+#### Online winner selection criteria: 
+* 1pt per like (likes on the main post will only be considered, 3 pts per sharing the post (you should tag the page while sharing)
+* 5 points for comments (the commenter must be a follower of the page)
 
-#### Rules & Guidelines
--For Y-16 Only.
--Time limit (120 minutes).
--Individual Event.
--The assets you create should be original. If found that they are downloaded/copied, it is a sufficient grounds for disqualification of the entry.
--Link to the software (Google Play): https://play.google.com/store/apps/details?id=truesculpt.main
--Tutorial Link 1: https://www.youtube.com/watch?v=vEcSO9NWwbU
+#### Finals: -
+* Medium: Open
+* Materials Provided: Pencils(2B,4B,6B,8B), erasers, sharpener, tissues, A3 sheets, newspaper (participants should bring their own water colors, brushes, pastels/crayons if required)
+* Time Limit:3 hours
+* Theme: On spot
 
-#### Judging Criteria
+#### General Rules:
+* Participants are not allowed to carry and use any references with them. If found any would straight result to disqualification.
+* Participants will be provided with only one A3 sheet. participants should take special care so as to not spoil the sheet. Along with A3 an A4 sized paper would be provided which is strictly meant for rough work.
+* The decision of the judges shall be final and binding for all.
 
-The judging shall be done on the following basis
--Creativity
--Execution
--Aesthetics
-
-#### Deadline
--On the spot event. Date: 1/10/2016 
-
+#### Organiser
+Nachiket (7588401580)
 ```
