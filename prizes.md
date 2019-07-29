@@ -26,6 +26,6 @@
 
 
 
-{% include figure.html image="/images/tshirt.jpg" caption=" "  position="left" width="200" height="200" %}
+{% include figure.html image="/images/jbl.jpg" caption=" "  position="left" width="200" height="200" %}
 
 
