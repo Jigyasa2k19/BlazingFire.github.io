@@ -18,6 +18,10 @@
 
 {% include figure.html image="/images/jbl.jpg" caption=" "  position="right" width="200" height="200" %}
 <br /><br />
+<br /><br />
+<br /><br />
+<br /><br />
+
 
 
 
