@@ -24,7 +24,7 @@ aside: false
 
 [<span style="font-family:'Merriweather'; font-size:1.75em;">V-chitram</span>](/events/video "A link")
 
-**Short Video Making-** You shouldn't dream your film, you should make it!” - Steven Spielberg . Movies allow us to enter other minds, not simply in the sense of identifying with the characters, but by seeing the world as another person sees it.  Do you often find yourself immersed in this world?  Have you ever wondered what would it feel like if this was not only your passion but also your profession?  Jigyasa aims to provide you with the first stepping stone.
+**Short Video Making-** *"You shouldn't dream your film, you should make it!"* - Steven Spielberg . Movies allow us to enter other minds, not simply in the sense of identifying with the characters, but by seeing the world as another person sees it.  Do you often find yourself immersed in this world?  Have you ever wondered what would it feel like if this was not only your passion but also your profession?  Jigyasa aims to provide you with the first stepping stone.
 
 [<span style="font-family:'Merriweather'; font-size:1.75em;">Srish-T</span>](/events/t_shirt_designing "A link")
 
