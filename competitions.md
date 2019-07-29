@@ -37,6 +37,6 @@ aside: false
 
 **Group-Dance-** 
 
-[<span style="font-family:'Merriweather'; font-size:1.75em;">RekhArt</span>](/events/singing "A link")
+[<span style="font-family:'Merriweather'; font-size:1.75em;">RekhArt</span>](/events/sketching "A link")
 
 **Drawing-** 
