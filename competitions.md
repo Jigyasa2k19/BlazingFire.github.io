@@ -19,7 +19,8 @@ aside: false
 
 [<span style="font-family:'Merriweather'; font-size:1.75em;">Aalapana</span>](/events/singing "A link")
 
-**Solo Vocals-** 
+**Solo Vocals-** The one who sings knows not no boundaries but only the joy of expression - the joy that follows a song felt from the heart and sung from the soul. And nothing is more beautiful, and nothing then is more appealing. And surely, nothing is more satisfying than singing your heart out loud.
+
 
 [<span style="font-family:'Merriweather'; font-size:1.75em;">V-chitram</span>](/events/video "A link")
 
@@ -27,16 +28,18 @@ aside: false
 
 [<span style="font-family:'Merriweather'; font-size:1.75em;">Srish-T</span>](/events/t_shirt_designing "A link")
 
-**T-shirt Designing-** 
+**T-shirt Designing-** Whenever you see someone with a cool T-shirt you certainly wish “kaash mere pas bhi yeh hoti”. Jigyasa’19 is giving you the opportunity to feel that delight where your friends will wear the same T-shirt designed by you. So start rolling yourself into this journey to get some publicity and for the first time to design something out of the box 
+
 
 [<span style="font-family:'Merriweather'; font-size:1.75em;">Natyanjali</span>](/events/dance "A link")
 
-**Solo Dance-** 
+**Solo Dance-** Indian classical dance is meant to please the Divine and to be a powerful means to bring the dancer as well as the audience back to its cultural consciousness. So drown yourself in divine, grace, beauty, tenderness to delight the eyes and souls of the viewers. Participate in the most graceful competition that Jigyasa has got for you: The Classical Dancing Competition “NATYANJALI”. 
+
 
 [<span style="font-family:'Merriweather'; font-size:1.75em;">Mudra</span>](/events/group_dance "A link")
 
-**Group-Dance-** 
+**Group-Dance-** Still have that beats running in your veins? Do you still groove yourself in front of the mirror? But now it’s time to break those shackles. Grab the moment and cast that entrancing spell on us! Opportunity dances with those already on the dance floor. Come, grab it. Come, dance to live, to breathe, to be free and to revive that culture of our India again.... 
 
 [<span style="font-family:'Merriweather'; font-size:1.75em;">RekhArt</span>](/events/sketching "A link")
 
-**Drawing-** 
+**Drawing-** 'Sketchbooks are not about being a good artist, they are about being a good thinker' Jigyasa brings you the chance to show the world the beauty of your thoughts and the artistry of your hands. Bring out the philosopher in you and make the world a better place. Sketch your version of the theme provided and win the hearts of the people!!!!!
