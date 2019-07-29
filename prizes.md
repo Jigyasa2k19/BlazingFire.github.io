@@ -21,8 +21,9 @@
 
 {% include figure.html image="/images/jbl.jpg" caption=" "  position="left" width="200" height="200" %}
 
-{% include figure.html image="/images/bycycle.jpg" caption=" "  position="left" width="200" height="200" %}
 
 {% include figure.html image="/images/bag.jpg" caption=" "  position="left" width="200" height="200" %}
 
 {% include figure.html image="/images/shoes.jpg" caption=" "  position="left" width="200" height="200" %}
+
+{% include figure.html image="/images/bycycle.jpg" caption=" "  position="left" width="200" height="200" %}
