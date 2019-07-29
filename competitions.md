@@ -19,7 +19,7 @@ aside: false
 
 [<span style="font-family:'Merriweather'; font-size:1.75em;">Aalapana</span>](/events/singing "A link")
 
-**Solo Vocals-** The one who sings knows not no boundaries but only the joy of expression - the joy that follows a song felt from the heart and sung from the soul. And nothing is more beautiful, and nothing then is more appealing. And surely, nothing is more satisfying than singing your heart out loud.
+**Solo Vocals-** The one who sings knows no boundaries but only the joy of expression - the joy that follows a song felt from the heart and sung from the soul. And nothing is more beautiful, and nothing then is more appealing. And surely, nothing is more satisfying than singing your heart out loud.
 
 
 [<span style="font-family:'Merriweather'; font-size:1.75em;">Chalchitram</span>](/events/video "A link")
