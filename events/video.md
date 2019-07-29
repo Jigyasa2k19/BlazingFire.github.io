@@ -31,25 +31,6 @@ Sound tracks (no max time limit) and stock footage (time limit : max of 1 min 30
 * Submission:
 Uploading the video on www.youtube.com or any other such website before emailing the link to jigyasa2019iitk@gmail.com is prohibited……………..
 
-#### Rules
-* Team Size: Solo
-* Rounds: Online Eliminations & Finals
-* Judging Criteria: Creativity, Theme incorporation, Relevance to theme, Complexity, Neatness, Overall Impact
-
-#### Online Eliminations: -
-* Medium: Pen/Pencil
-* Theme: Krishna- The Super Hero 
-
-#### Finals: -
-* Medium: Open
-* Materials Provided: Pencils(2B,4B,6B,8B), erasers, sharpener, tissues, A3 sheets, newspaper
-* Time Limit:3 hours
-* Theme: On spot
-#### General Rules:
-* No references are allowed to be carried by the participants. Any explicit content shall lead to straight disqualification.
-* Only one sheet would be given. So, the participants should take special care so as to not spoil the sheet. An A3 sized paper would be given which could be used for rough work.
-* The decision of the judges shall be final and binding.
-
 #### Organiser
 - Vishal (9792964573)
 
