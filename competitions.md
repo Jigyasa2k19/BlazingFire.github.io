@@ -36,3 +36,7 @@ aside: false
 [<span style="font-family:'Merriweather'; font-size:1.75em;">Mudra</span>](/events/group_dance "A link")
 
 **Group-Dance-** 
+
+[<span style="font-family:'Merriweather'; font-size:1.75em;">RekhArt</span>](/events/singing "A link")
+
+**Drawing-** 
