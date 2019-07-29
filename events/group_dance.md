@@ -9,8 +9,7 @@ aside: false
 
 
 #### Group Dance
-
-
+Still have that beats running in your veins? Do you still groove yourself in front of the mirror? But now it’s time to break those shackles. Grab the moment and cast that entrancing spell on us! Opportunity dances with those already on the dance floor. Come, grab it. Come, dance to live, to breathe, to be free and to revive that culture of our India again.... 
 
 #### How to participate ?
 [<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/KdcxcBhTjBirV6pH8 "Event Registration link") 
