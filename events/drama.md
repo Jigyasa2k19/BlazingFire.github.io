@@ -13,8 +13,6 @@ The art of dramatics has been an integral part of our culture going far back. We
 #### How to participate ?
 [<span style="font-family:Papyrus; font-size:1em;">Register Here</span>](https://forms.gle/KdcxcBhTjBirV6pH8 "Event Registration link") 
 
-#### Description
-The art of dramatics has been an integral part of our culture going far back. We have a rich tradition of transmitting our great histories such as Ramayana and Mahabharata and other epic stories via the medium of drama. This year in Jigyasa, we are providing a platform for you to display your talents and also continue this tradition by enacting a drama based on our epics.
 
 #### Tentative Timeline - 
 * Registration deadline  - 30th July 
