@@ -24,8 +24,7 @@
 
 
 
+<img style="float: right;" src="/images/jbl.jpg">
 
-
-{% include figure.html image="/images/jbl.jpg" caption=" "  position="left" width="200" height="200" %}
 
 
