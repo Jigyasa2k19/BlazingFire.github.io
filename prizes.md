@@ -5,16 +5,16 @@
 
 {% include figure.html image="/images/kindle.jpg" caption=" " position="left" width="200" height="200" %}
 
-{% include figure.html image="/images/fitbit.jpeg" caption=" " position="center" width="200" height="200" %}
+{% include figure.html image="/images/fitbit.jpeg" caption=" " position="left" width="200" height="200" %}
 
-{% include figure.html image="/images/headphone.jpg" caption=" " position="right" width="200" height="200" %}
-
-
-
-{% include figure.html image="/images/shoes.jpg" caption=" "  position="left" width="200" height="200" %}
+{% include figure.html image="/images/headphone.jpg" caption=" " position="left" width="200" height="200" %}
 
 
-{% include figure.html image="/images/pendrive.jpg" caption=" " position="center" width="200" height="200" %}
+
+{% include figure.html image="/images/shoes.jpg" caption=" "  position="right" width="200" height="200" %}
+
+
+{% include figure.html image="/images/pendrive.jpg" caption=" " position="right" width="200" height="200" %}
 
 {% include figure.html image="/images/jbl.jpg" caption=" "  position="right" width="200" height="200" %}
 
@@ -22,8 +22,8 @@
 
 {% include figure.html image="/images/bag.jpg" caption=" "  position="left" width="200" height="200" %}
 
-{% include figure.html image="/images/tshirt.jpg" caption=" "  position="center" width="200" height="200" %}
+{% include figure.html image="/images/tshirt.jpg" caption=" "  position="left" width="200" height="200" %}
 
-{% include figure.html image="/images/bag.jpg" caption=" "  position="right" width="200" height="200" %}
+{% include figure.html image="/images/bag.jpg" caption=" "  position="left" width="200" height="200" %}
 
 
