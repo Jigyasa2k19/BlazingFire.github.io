@@ -23,7 +23,7 @@ Participate in this one-of-a-kind recitation event to embalm your life with the 
 * Elimination round will be held on 18th August, 2019.
 
 
-##### Final Performance:
+#### Final Performance:
 * The winners of the elimination round should memorize the entire 15th chapter of Bhagavad Gita and recite the slokas in front of audience in the Jigyasa-2019 event in a given melody.
 * Date: 24th August 2019
 
