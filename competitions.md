@@ -40,6 +40,12 @@ aside: false
 
 **Group-Dance-** Still have that beats running in your veins? Do you still groove yourself in front of the mirror? But now it’s time to break those shackles. Grab the moment and cast that entrancing spell on us! Opportunity dances with those already on the dance floor. Come, grab it. Come, dance to live, to breathe, to be free and to revive that culture of our India again.... 
 
-[<span style="font-family:'Merriweather'; font-size:1.75em;">RekhArt</span>](/events/sketching "A link")
+[<span style="font-family:'Merriweather'; font-size:1.75em;">Chitrakalam</span>](/events/sketching "A link")
 
 **Drawing-** 'Sketchbooks are not about being a good artist, they are about being a good thinker' Jigyasa brings you the chance to show the world the beauty of your thoughts and the artistry of your hands. Bring out the philosopher in you and make the world a better place. Sketch your version of the theme provided and win the hearts of the people!!!!!
+
+[<span style="font-family:'Merriweather'; font-size:1.75em;">Swaranjali</span>](/events/shloka "A link")
+
+**Sloka Recitation-** Bhagavad Gita was spoken directly by the supreme counsellor and psychologist none other than Lord Sri Krishna. The therapeutic effects of traditional shloka recitation are not unknown to our ancestors. If one recites and reflects on the Gita regularly and attentively, he will gain access to newer and higher truths of life through which he can lead a lively yet thoughtful and balanced life. If a person just hears Bhagavad Gita at the fag end of his life, he gets freed from all lamentations and anxieties arisen from debacles committed in his life. Then what to speak of a person who regularly chants it 
+
+
