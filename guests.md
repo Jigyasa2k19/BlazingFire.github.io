@@ -1,15 +1,6 @@
-##### Guest Appearances 
-
-Don't miss a chance to hear from these celebrities. More information to be updated soon.
-
-{% include figure.html image="/images/to_be_announce.jpg" caption=" " position="left" width="300" height="300" %}
+##### I am that law in your physics book which you have used but not realized.
 
 
-{% include figure.html image="/images/to_be_announce.jpg" caption=" " position="left" width="300" height="300" %}
+{% include figure.html image="/images/physics.png" caption=" " %}
 
-
-{% include figure.html image="/images/to_be_announce.jpg" caption=" " position="left" width="300" height="300" %}
-
-
-{% include figure.html image="/images/to_be_announce.jpg" caption=" " position="left" width="300" height="300" %}
 
