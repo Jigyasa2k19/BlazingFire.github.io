@@ -8,16 +8,16 @@ aside: true
 ---
 
 
-[<span style="font-family:'Merriweather'; font-size:1.75em;">Singing</span>](/events/singing "A link")
+<!-- 
 
-Mesmerize the digital world with your impactful thoughts and content.A NGO wants to make their Social Awareness video and they have contacted to your pool to make it for them, now you are supposed to make a Social Awareness campaign video on their theme. It can be a Documentary, photo campaign video (Reference: https://www.facebook.com/itmatters.news/videos) etc.
+Congratulation! Submit the line written below (without double-quote) to solve the problem.
 
+“The art of focusing one’s attention on the Supreme and giving one’s love to Him is called Kṛṣṇa consciousness.”
+-->
 
-[<span style="font-family:'Merriweather'; font-size:1.75em;">Dance</span>](/events/dance "A link")
+<title>Hidden Quote</title>
+<br><br>
+<div align=center>
+<p>Somewhere in this page, there is a hidden quote!</p>
+</div>
 
-let your creativity flow 
-
-
-[<span style="font-family:'Merriweather'; font-size:1.75em;">Theatre</span>](/events/drama "A link")
-
-Bring your inner genius outside and rock the world.
