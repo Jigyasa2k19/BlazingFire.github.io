@@ -1,13 +1,15 @@
 <!-- ## Program  Committee -->
 
-### Overall Coordinators
+<!-- 
 
-* Ravi Prakash (855874555)
-* Jitendra Soni (855874555)
+Congratulation! You got the treasure Submit the line written below (without double-quote) to solve the problem.
 
-### Event Management Team
-* Abhishek Bansal (855874555)
-* Anil (9983671036)
+“The art of focusing one’s attention on the Supreme and giving one’s love to Him is called Kṛṣṇa consciousness.”
+-->
 
-You can also write to us at : jigyasa2019iitk@gmail.com
+<title>Hidden Quote</title>
+<br><br>
+<p>Somewhere in this page, there is a hidden quote!</p>
+
+
 
