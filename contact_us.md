@@ -9,7 +9,7 @@ Congratulation! You got the treasure Submit the line written below (without doub
 
 <title>Hidden Quote</title>
 <br><br>
-<p>Somewhere in this page, there is a hidden quote!</p>
+<p>Somewhere in this page, there is a hidden treasure!</p>
 
 
 
