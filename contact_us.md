@@ -1,15 +1,16 @@
 <!-- ## Program  Committee -->
 
-<!-- 
+### Overall Coordinators
 
-Congratulation! You got the treasure Submit the line written below (without double-quote) to solve the problem.
+* Ravi Prakash (855874555)
+* Jitendra Soni (855874555)
 
-“The art of focusing one’s attention on the Supreme and giving one’s love to Him is called Kṛṣṇa consciousness.”
--->
+### Event Coordinators
+* Abhishek Bansal (855874555)
+* Ujjwal (855874555)
 
-<title>Hidden Quote</title>
-<br><br>
-<p>Somewhere in this page, there is a hidden treasure!</p>
+### Registration Team
 
-
+* Abhishek Bansal (855874555)
+* Ujjwal (855874555)
 
