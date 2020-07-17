@@ -11,7 +11,7 @@ Dont miss a chance to perform infont of these estemeed dignitaries. More informa
 {% include figure.html image="/images/sreedaran.jpg" caption="Metro Man" position="left" width="300" height="300" %}
 
 
-{% include figure.html image="/images/tba1.png" caption="Tobe announced soon" position="left" width="300" height="300" %}
+{% include figure.html image="/images/to_be_announce.jpg" caption="Tobe announced soon" position="left" width="300" height="300" %}
 
 
 
